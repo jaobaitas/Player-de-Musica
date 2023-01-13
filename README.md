@@ -1,2 +1,2 @@
-# player-de-musica
+# PLAYER DE MÚSICA
  desafio do #boracodar da Rocketseat
